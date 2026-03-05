@@ -6,9 +6,9 @@
 
 Descargar las hojas de atajos recomendadas:
 
-[Guías de atajos - Dart ]()
+[Guías de atajos - Dart ](https://github.com/adanudmeza/Flutter_Uniguajira/blob/main/Guia%20para%20Dart.pdf)
 
-[Guías de atajos - Flutter ]()
+[Guías de atajos - Flutter ](https://github.com/adanudmeza/Flutter_Uniguajira/blob/main/Guia%20-%20flutter.pdf)
 
 
 # Instalaciones en el equipo
